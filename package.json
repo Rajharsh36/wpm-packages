@@ -1,4 +1,5 @@
 {
-  "python":"https://www.python.org/ftp/python/3.12.6/python-3.12.6-amd64.exe",
+  "python-installer":"https://www.python.org/ftp/python/3.12.6/python-3.12.6-amd64.exe",
+  "python":"https://rajharsh36.github.io/wpm-packages/python.exe",
    "zz": "https://rajharsh36.github.io/database/1726491313263.mp4"
 }
