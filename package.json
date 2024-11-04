@@ -3,6 +3,7 @@
     "node-js":"https://nodejs.org/dist/v22.11.0/node-v22.11.0-x64.msi",
   "vs-code":"https://code.visualstudio.com/sha/download?build=stable&os=win32-x64-user",
   "avg":"https://www.avg.com/en-in/download-thank-you.php?product=FREEGSR",
-  "minGW64":"https://sourceforge.net/projects/mingw/files/latest/download"
+  "minGW64":"https://sourceforge.net/projects/mingw/files/latest/download",
+  "wpm":"https://github.com/Rajharsh36/wpm/wpm-installer.exe"
 
 }
