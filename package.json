@@ -1,9 +1,13 @@
 {
-  "python":"https://www.python.org/ftp/python/3.12.6/python-3.12.6-amd64.exe",
-    "node-js":"https://nodejs.org/dist/v22.11.0/node-v22.11.0-x64.msi",
-  "vs-code":"https://code.visualstudio.com/sha/download?build=stable&os=win32-x64-user",
-  "avg":"https://www.avg.com/en-in/download-thank-you.php?product=FREEGSR",
-  "minGW64":"https://sourceforge.net/projects/mingw/files/latest/download",
-  "wpm":"https://rajharsh36.github.io/wpm/wpm.exe"
+  "python-installer":"https://www.python.org/ftp/python/3.12.6/python-3.12.6-amd64.exe",
+    "node-js-installer":"https://nodejs.org/dist/v22.11.0/node-v22.11.0-x64.msi",
+  "vs-code-installer":"https://code.visualstudio.com/sha/download?build=stable&os=win32-x64-user",
+  "avg-installer":"https://www.avg.com/en-in/download-thank-you.php?product=FREEGSR",
+  "minGW64-installer":"https://sourceforge.net/projects/mingw/files/latest/download",
+  "wpm":"https://rajharsh36.github.io/wpm/wpm.exe",
+  "python":"https://rajharsh36.github.io/wpm-packages/python.exe",
+  "node-js":"https://rajharsh36.github.io/wpm-packages/node.exe",
+  "mingW64-g++":"https://rajharsh36.github.io/wpm-packages/g++.exe",
+  "mingW64-gcc":"https://rajharsh36.github.io/wpm-packages/gcc.exe"
 
 }
