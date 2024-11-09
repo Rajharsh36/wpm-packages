@@ -8,6 +8,7 @@
   "python":"https://rajharsh36.github.io/wpm-packages/python.exe",
   "node-js":"https://rajharsh36.github.io/wpm-packages/node.exe",
   "mingW64-g++":"https://rajharsh36.github.io/wpm-packages/g++.exe",
-  "mingW64-gcc":"https://rajharsh36.github.io/wpm-packages/gcc.exe"
+  "mingW64-gcc":"https://rajharsh36.github.io/wpm-packages/gcc.exe",
+  "pip":"https://rajharsh36.github.io/wpm-packages/pip.exe"
 
 }
